@@ -23,6 +23,8 @@ database;
 - Candidate should design endpoints structure together with input and output data;
 - Provide instruction on how to run the project in the local environment.
 
+Document on pdf: https://drive.google.com/file/d/16icVrrH21GNUoudOuCXe371BGo8dzJU7/view?usp=sharing
+
 Instructions of use:
 
 1. When you run the project, it generates the table User and add 3 users:
