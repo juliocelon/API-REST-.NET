@@ -27,19 +27,19 @@ Instructions of use:
 
 1. When you run the project, it generates the table User and add 3 users:
 
-Login (user name): user1
-Password: pwd
-Role: admin
+Login (user name): user1,
+Password: pwd,
+Role: admin,
 USD_Balance: 10000
 
-Login (user name): user2
-Password: pwd
-Role: user
+Login (user name): user2,
+Password: pwd,
+Role: user,
 USD_Balance: 20000
 
-Login (user name): user3
-Password: pwd
-Role: user
+Login (user name): user3,
+Password: pwd,
+Role: user,
 USD_Balance: 30000
 
 You can find the table on the file: users.sqlite
@@ -49,7 +49,7 @@ REST API Endpoints:
 1. Login
 
 POST http://localhost:5000/api/users/
-​​{
+{
    "login": "user1",
    "password": "pwd"
 }
